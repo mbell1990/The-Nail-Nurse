@@ -265,6 +265,16 @@
   width: 100%;
 }
 
+.insurance-details {
+  font-size: 1.8rem;
+  line-height: 1.6;
+  text-align: center;
+}
+
+.guild-logo {
+  height: 6rem;
+}
+
 /**************************/
 /* PRICING SECTION */
 /**************************/
